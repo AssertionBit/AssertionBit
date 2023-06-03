@@ -1,0 +1,19 @@
+.techonologies--table {
+    width: 100%;
+}
+
+.techologies--header {
+    /* display: block; */
+    width: 100%;
+    background-color: #33333325;
+}
+
+.technologies--row {
+    /* display: block; */
+    width: 100%;
+}
+
+.technologies--cell {
+    /* width: max-content; */
+    padding: 10px 20px;
+}
